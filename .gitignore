@@ -1,0 +1,7 @@
+core
+*.swp
+*.swo
+*.o
+*.ln
+a.out
+isPrime
